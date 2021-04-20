@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mni_home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/mni_empty"
+        android:title="Empty"/>
+    <item
+        android:id="@+id/mni_empty2"
+        android:title="Empty2"/>
+    <item
+        android:id="@+id/mni_empty3"
+        android:title="Empty3"/>
+
+</menu>
